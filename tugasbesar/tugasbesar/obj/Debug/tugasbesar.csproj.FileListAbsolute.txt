@@ -1,0 +1,7 @@
+C:\Users\USER\Documents\SharpDevelop Projects\tugasbesar\tugasbesar\bin\Debug\tugasbesar.exe
+C:\Users\USER\Documents\SharpDevelop Projects\tugasbesar\tugasbesar\bin\Debug\tugasbesar.pdb
+C:\Users\USER\Documents\SharpDevelop Projects\tugasbesar\tugasbesar\obj\Debug\tugasbesar.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\SharpDevelop Projects\tugasbesar\tugasbesar\obj\Debug\tugasbesar.MainForm.resources
+C:\Users\USER\Documents\SharpDevelop Projects\tugasbesar\tugasbesar\obj\Debug\tugasbesar.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\SharpDevelop Projects\tugasbesar\tugasbesar\obj\Debug\tugasbesar.exe
+C:\Users\USER\Documents\SharpDevelop Projects\tugasbesar\tugasbesar\obj\Debug\tugasbesar.pdb
